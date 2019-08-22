@@ -1,6 +1,6 @@
 {
   "name": "smg-shp-write",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Write shapefiles from pure javascript",
   "main": "index.js",
   "scripts": {
@@ -35,9 +35,9 @@
     "url": "https://github.com/mapbox/shp-write/issues"
   },
   "dependencies": {
-    "smg-dbf": "0.1.4",
-    "file-saver": "2.0.0",
-    "jszip": "3.1.5"
+    "file-saver": "^2.0.0",
+    "jszip": "^3.1.5",
+    "smg-dbf": "^0.1.5"
   },
   "devDependencies": {
     "browserify": "16.2.3",
