@@ -1,6 +1,6 @@
 {
   "name": "smg-shp-write",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Write shapefiles from pure javascript",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapbox/shp-write.git"
+    "url": "https://github.com/vutrungduc7593/smg-shp-write.git"
   },
   "files": [
     "index.js",
@@ -26,8 +26,8 @@
   "author": "Tom MacWright",
   "contributors": [
     {
-      "name": "Nick Baugh",
-      "email": "niftylettuce@gmail.com"
+      "name": "Duc Vu",
+      "email": "ducvt@skymapglobal.com"
     }
   ],
   "license": "BSD-2-Clause",
