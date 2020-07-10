@@ -1,5 +1,5 @@
 {
-  "name": "smg-shp-write",
+  "name": "@skymapglobal/shp-write",
   "version": "0.3.4",
   "description": "Write shapefiles from pure javascript",
   "main": "index.js",
